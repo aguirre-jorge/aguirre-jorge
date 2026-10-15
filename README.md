@@ -1,4 +1,4 @@
-## Hi there 👋
+## Muy buenas!!! 👋
 
 <!--
 **aguirre-jorge/aguirre-jorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Soy Jorge, de Santiago de Chile. Soy Ingeniero Civil Industrial de profesión y en estos momentos me encuentro finalizando un bootcamp de desarrollo de aplicaciones web Full Stack Python para ampliar mis habilidades y acceder a nuevas oportunidades laborales.
+
+Tengo experiencia en áreas de finanzas, contabilidad y mejora continua de procesos. Entiendo la importancia del manejo y presentación de datos. La creación de aplicaciones web era algo que quería aprender hace tiempo y por fin encontré la oportunidad de hacerlo. Manejo el uso del framework Django y el uso de Dockers para levantar una imagen del servidor, actualmente explorando frameworks de frontend.
+
+Mis redes sociales están en bio a la derecha. Y mi mail de contacto profesional es jeaguirr@uc.cl
